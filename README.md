@@ -40,6 +40,7 @@ Retrieve the current user:
 >> kele_client.get_me
 Retrieve a list of their mentor's availability:
 ```
+Retrieve a list of their mentor's availability:
 
 ```$ irb
 >> require 'kele'
