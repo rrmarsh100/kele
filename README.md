@@ -21,7 +21,8 @@ You can find all of Bloc's documentation here: https://blocapi.docs.apiary.io/
 ```$ irb
 >> require 'kele'
 => true
->> Kele.new("jane@gmail.com", "abc123")```
+>> Kele.new("jane@gmail.com", "abc123")
+```
 Here are a few examples:
 
 Retrieve the current user:
@@ -31,10 +32,13 @@ Retrieve the current user:
 => true
 >> kele_client = Kele.new("jane@gmail.com", "abc123")
 >> kele_client.get_me
-Retrieve a list of their mentor's availability:```
+Retrieve a list of their mentor's availability:
+```
 
 ```$ irb
 >> require 'kele'
 => true
 >> kele_client = Kele.new("jane@gmail.com", "abc123")
->> kele_client.get_mentor_availability```
+>> kele_client.get_mentor_availability
+```
+
