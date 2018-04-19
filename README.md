@@ -9,12 +9,15 @@ Installation
 Add this line to your application's Gemfile:
 
 ```gem 'kele'```
+
 And then execute:
 
 ```$ bundle```
+
 Or install it yourself as:
 
 ```$ gem install kele```
+
 Usage
 
 Once installed, you can Initialize and authorize Kele wih a Bloc username and password using IRB.
