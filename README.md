@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ```$ gem install kele```
 
-<h2>Usage<h2>
+<h2>Usage</h2>
 
 Once installed, you can Initialize and authorize Kele wih a Bloc username and password using IRB.
 
