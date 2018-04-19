@@ -1,9 +1,11 @@
 Kele
+
 A Ruby Gem API client to access the Bloc API; Bloc student project.
 
 Rather than using cURL to access the Bloc Application API, you can use this gem to access student information in your own Rails application or API.
 
 Installation
+
 Add this line to your application's Gemfile:
 
 ```gem 'kele'```
@@ -14,6 +16,7 @@ Or install it yourself as:
 
 ```$ gem install kele```
 Usage
+
 Once installed, you can Initialize and authorize Kele wih a Bloc username and password using IRB.
 
 You can find all of Bloc's documentation here: https://blocapi.docs.apiary.io/
